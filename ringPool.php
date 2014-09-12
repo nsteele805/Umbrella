@@ -78,6 +78,5 @@
 	 *
 	 */
 
-echo $invocaNumber;
 
 ?>
