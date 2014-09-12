@@ -63,7 +63,7 @@
 	$queries = getAllQueries();
 
 	// Add your unique API Key here
-	$apiKey = 'Rn5ItBdZ2RaIkck4HBs_IWXdbLb8V0YQ';
+	$apiKey = '';
 
 	// Add your RingPool ID here
 	$id = '14208';
